@@ -1,0 +1,38 @@
+
+{
+  "products" : [
+    {
+        "name" : "chair",
+      "id" : "12345",
+      "colors": [
+        "Brown",
+        "Black"
+      ]
+    },
+    {
+        "name" : "table",
+      "id" : "1236",
+      "colors": [
+        "Brown",
+        "Black"
+      ]
+    },
+    {
+        "name" : "stool",
+      "id" : "567",
+      "colors": [
+        "Brown",
+        "Black"
+      ]
+    },
+    {
+        "name" : "coffee table",
+      "id" : "4321",
+      "colors": [
+        "Brown",
+        "White"
+      ]
+    }
+  ]
+  
+}
